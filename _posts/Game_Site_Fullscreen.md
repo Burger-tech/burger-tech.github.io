@@ -9,8 +9,8 @@ tags: [gaming,website,gamesite]
 
 
 
-![pic of bergsmaservers game page](https://ibb.co/mTfC69q)
-_The Page You Will Make
+![pic of bergsmaservers game page](https://i.ibb.co/tKVM8qs/Screenshot-2024-09-04-203823.png)
+<br>The Page You Will Make
 
 
 
