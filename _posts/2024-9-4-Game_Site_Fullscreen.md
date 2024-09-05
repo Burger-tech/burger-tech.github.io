@@ -75,7 +75,7 @@ function goFullscreen(id) {
 
 ```
 
-# That Was A Lot....
+## That Was A Lot....
 
 If you're kinda confused right now, you are human. Lets start explaining this from the top! 
 
@@ -117,8 +117,7 @@ This part of the code is actually java, kind of like the codw we just went over,
 The only thing that we still have to go over is arguably the most fundamental part - the iframe. The iframe is what is actually displaying out game. It is calling a url, and displaying the contents of that page in a box. To change the outline, color, and shape of an iframe, you can change the css for that iframe tag. The only technical parts of this are the src properity, which is where you put the desired url, and the heith and width, which specifies how large the iframe will be. You can also ad an id, as we have done here, so that our fullscreen button makes this iframe fullscreen when clicked. You also have to have "allowfullscreen", so that it can be fullscreen.
 
 
-
-# 
-# Well, there ya go!
+ 
+## Well, there ya go!
 
 Thanks for reading my guide, and I hope you learned a lot and come back to read the rest of the gamesite series. If you want to read more, you can look on this site for documents with the tag "gamesite". See you next time!!
