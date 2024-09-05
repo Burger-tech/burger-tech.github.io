@@ -6,6 +6,15 @@ tags: [gaming,website,gamesite]
 ---
 
 
+
+
+
+![pic of bergsmaservers game page](https://ibb.co/mTfC69q)
+_The Page You Will Make
+
+
+
+
 # How To Code It!
 
 This guide is the first one in a series of many on how to to make a fully functuional games website with CSS & HTML!
