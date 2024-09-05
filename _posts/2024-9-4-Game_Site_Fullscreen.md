@@ -1,6 +1,6 @@
 ---
 title: A Game Website Page With A Java Fullscreen button
-date: 2024-9-4 20:00:00
+date: 2024-9-4
 categories: [Projects, Game Site]
 tags: [gaming,website,gamesite]
 toc: false
